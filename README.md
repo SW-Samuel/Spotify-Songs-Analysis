@@ -35,6 +35,37 @@ Este projeto realiza uma análise detalhada dos dados musicais do Spotify, utili
 
 1. Clone o repositório:
 
-```bash
 git clone https://github.com/SW-Samuel/Spotify-Songs-Analysis.git
 cd Spotify-Songs-Analysis
+
+Dados
+Os dados utilizados são uma amostra de 50.000 músicas do Spotify, contendo atributos como:
+
+Nome da música
+
+Artista
+
+Popularidade
+
+Data de lançamento
+
+Características acústicas (energia, dança, instrumentalidade, etc.)
+
+Observação: Caso os dados não estejam incluídos, oriente o usuário sobre onde e como obter os datasets.
+
+📈 Resultados
+No notebook, você encontrará gráficos e insights que mostram:
+
+Evolução da popularidade das músicas ao longo dos anos
+
+Comparação entre artistas e gêneros musicais
+
+Análise das características acústicas que influenciam a popularidade
+
+🤝 Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests para melhorias e correções.
+
+📄 Licença
+Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+
