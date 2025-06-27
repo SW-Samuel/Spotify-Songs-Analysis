@@ -61,4 +61,7 @@ No notebook, você encontrará gráficos e insights que mostram:
 - Comparação entre artistas e gêneros musicais
 - Análise das características acústicas que influenciam a popularidade
 
+---
 
+> 📌 **Author:** Samuel  
+> 📅 **Last Update:** June 2025
